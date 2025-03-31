@@ -1,0 +1,23 @@
+{
+  "name": "samlabs-scratch-extensions",
+  "version": "1.0.0",
+  "main": "extensions/samlabs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rbel12b/samlabs-scratch-extensions.git"
+  },
+  "author": "Rbel12b",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Rbel12b/samlabs-scratch-extensions/issues"
+  },
+  "homepage": "https://github.com/Rbel12b/samlabs-scratch-extensions#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
