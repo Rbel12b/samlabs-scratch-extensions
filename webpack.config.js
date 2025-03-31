@@ -8,7 +8,7 @@ module.exports = [
             filename: 'samlabs.js',
             libraryTarget: 'commonjs2'
         },
-        mode: 'development',
+        mode: 'production',
         target: 'node'
     },
     {
@@ -18,7 +18,7 @@ module.exports = [
             filename: 'sambot.js',
             libraryTarget: 'commonjs2'
         },
-        mode: 'development',
+        mode: 'production',
         target: 'node'
     }
 ];
